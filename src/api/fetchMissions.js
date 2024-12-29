@@ -12,3 +12,5 @@ export const fetchMissions = () => {
       throw err;
     });
 };
+
+export default fetchMissions
